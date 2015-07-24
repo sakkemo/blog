@@ -1,4 +1,5 @@
 = 140 penkistä
+:hp-tags: penkki, tavoitteet
 
 [.lead]
 Tällaisena tää on ehkä vähän erikoinen tavoite tällä listalla.
@@ -7,5 +8,7 @@ Enemmän puntilla käyneet ehkä tajuu että tavoitteena tää ei oo hirveen mie
 
 Lähtötilanne ei oo liene tuttu kellekään, mut 2014 helmi-maaliskuussa penkkasin 120 kg just because. Sen jälkeen sit oli kaikee muuta, niinku vaivoi, täyspäivänen vakiduuni, kiipihommia ja kesä, jonka aikana ja jälkeen fiksailtiin noita vaivoja sit vähä http://deansomerset.com/[Dean Somersetin] kans. Nyt taidan penkata juuri sen 100 kg, mut toisaalta oon vähemmän läski.
 
-Koska metapuntti on äärimmäisen puuduttavaa
+Koska metapuntti on äärimmäisen puuduttavaa, eikä punttihommat oo mulle mikään ykkösprioriteetti, taidan lähtä liikkeelle treenaamisen suhteen samaan tyyliin kuin tuon 100 kg -> 120 kg hoidin edellisellä kerrallakin.
+//
 
+Seuraavaan kertaan: safkailu & mitä sillon edellisellä kerralla tehtiinkään.
