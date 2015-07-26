@@ -1,0 +1,14 @@
+= Osallistuu hyväntekeväisyyteen
+:hp-tags: hyväntekeväisyys, tavoitteet
+
+Terve! Tää on ollu mielessä jo pitkään, että nyt ku on duunissa ja ei oo akuutisti rahapulaa ois viimeistään se hetki et sitä rahaa vois käyttää muuhunki ku oman aseman parantamiseen. En kaipaa paljo lisää (sellasta mitä rahalla sais) ja koen olevani erittäin hyväosainen niin maailman kuin Suomenkin mittakaavassa.
+
+Olin valvonu eka kahteen (jetlagi ei kato aikaeroo.footnote:[Vatanen, 2015]), sit ku heräsin luin kirjaa kolmeen iltapäivällä. Täs vaihees (kolmannen kirjan puolivälissä) sain luettua sen kohdan minkä vuoksi aloin tota trilogiaa uusiks lukeen ja totesin et lienee aika nousta. Join vähä vettä ja söin jotain aamupalaa, mikä ei auttanu tosta köllöttelystä syntyneeseen hedariin lainkaan. Aattelin et jotain muutaki lienee syytä syödä, ja lähin hakeen kilon jauhelihaa kaveriks kahdelle kilolle kaalta joka mulla oli jo.
+
+Koska kaali ja jauheliha ei vielä kuulostanu hirveen hehkeeltä safkalta, piti käyä myös Ympyrätalon S-marketis. Siinä oli joku feissari ja huolimatta tosta hedarista joka vieläki jatku ajattelin et no, jos tarkotus oli alkaa laittaa rahaa meneen niin kuunnellaan nyt tää.
+
+Epäilyttävän kristilliseltä kuulostavasta nimestä (ilmeisesti muidenki mielestä ku mun), https://lahjoita.helsinkimissio.fi/[Helsinkimissiolla] ei vissiin kuitenkaan oo mitään sellasia suhteita. Ja sinne mun roposet nyt menee kunnes ehdin spexata jotain parempaa lahjoituskohdetta, ja miksei sen jälkeenkin. Pitää tutustua niiden toimintaan paremmalla ajalla. Mongolia ja Nepal kiinnostais avustuskohteina siks et 1) niillä on siisti historia ja kulttuuri 2) niillä vois mennä paremminki.
+
+Hyväntekeväisyyden lisäks on mainittava et maksan ja jatkossa maksan varmaan lisää myös open-source softasta. https://weechat.org/about/donate/[WeeChat] on sen verran amazing et saanee multa rahaa jatkossaki.
+
+Näihin tunnelmiin, huomenna loma loppuu ja häätyy pamauttaa takas duuniin tienaamaan näitäkin rahoja!
