@@ -1,0 +1,6 @@
+= Työkavereiden kommentteja
+
+[, Esimies]
+""
+En osaa kuvitella sua lääkäriksi.footnote:[Myöhempi tarkennus: _terveyskeskuslääkäriksi_]
+""
