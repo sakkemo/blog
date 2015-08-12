@@ -12,6 +12,10 @@ I can see you as a doctor.
 ""
 My sister says she was too young for med school at 19.
 ""
+[, Myyjä]
+""
+Onnea lääkikseen. Petturi!
+""
 '''
 [, Toimari]
 ""
