@@ -1,0 +1,16 @@
+= Jepjep
+
+Irkkasin vähä https://fi.wikipedia.org/wiki/Ongelmalähtöinen_oppiminen[PBL-sessiosta]. Neuvoin jotain tyyppiä vim-jutuissa, mut en ollu varma meniks oikein koska ei ollu kaikkee oikein hollilla.
+
+ 10:13 <sakkemo> I don't have a vim here :P
+ 10:24 <ggVGc> sakkemo: why would you be anywhere without vim
+ 10:24 <ggVGc> you're crazy
+ 10:24 <ggVGc> CRAZY
+ 10:29 <sakkemo> I've been asking myself that
+
+== Enpä tiiä, osa II
+
+Still got it.
+
+ 14:40 <sakkemo> olli tykkää, koska sopii sen maailmankuvaan
+ 14:57 <@Gesunderheiter> sakke tuntee
