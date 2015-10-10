@@ -1,0 +1,11 @@
+= Todiste
+
+Väitän että oon nörtti, mut sitä on jotenki aika vaikee perustella. Ehkä ne jotka tuntee mut allekirjottaa ton, mut on aika vaikee keksiä hyviä esimerkkejä tästä.
+
+---
+
+Olin eilen puol yhteentoista illalla duunissa auttamassa työkaveria. Tein sille esim. `sed`-loitsun (oleellisesti `sed '1!b;s/foo\([0-9]\)/bar\1/' file > file2`).
+
+Lisäks tänä aamuna heräsin kommenttiin mun http://vi.stackexchange.com/a/5054/1672[Stack Exchange -vastauksessa] ja eka asia mitä tein ku nousin ylös oli mennä päivittämään se.
+
+Et ehkä mä oon.
