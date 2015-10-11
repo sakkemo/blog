@@ -1,5 +1,5 @@
 = A week in review
-:published_at:2015-10-11
+:published_at: 2015-10-11
 
 Tää oli ensimmäinen viikko kun tää alanvaihtopäätös tuntu hyvältä. Nyt on alkanut päästä yli siitä ajatuksesta että on luopumassa jostain, ja kompromissit mitä tässä on joutunu tekeen tuntuu ihan siedettäviltä.
 
@@ -12,4 +12,4 @@ Highlightit:
 Lisäks
 
 * Ekaa kertaa pitkään aikaan tosiaan kiinnostaa panostaa punttiin ja kiipimisiin. Tää on varmaan oire jostain muusta.
-* Lääkiksessä opiskelu on hyvä syy
+* Lääkiksessä opiskelu on about yhtä hyvä syy _lähtä meneen sillon ku tarvii_ ku lasten haku tarhasta
