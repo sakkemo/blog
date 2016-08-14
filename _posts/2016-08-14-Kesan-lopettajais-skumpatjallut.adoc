@@ -5,6 +5,8 @@ Tasan 12 viikkoa sitten paskoin calcaneukseni. Mietin et kannattaako laskee päi
 [quote, Jukka N.]
 Ei sun tarvi. Tiedät sen siitä että kesä on loppu.
 
+'''
+
 Sää alkaa näyttää siltä että se hetki on koittanut.
 
 Juhlistetaan siis
@@ -13,12 +15,11 @@ Juhlistetaan siis
  * (Not) back to school
  * Kesän loppumista (???)
 
-*tiistaina 16.8.* Juhlapäivän aikataulu lienee seuraava
+*tiistaina 16.8.* Juhlapäivän aikataulu on seuraava
 
 8:30:: Röntgen
 9:00:: Ortopedi
 10:00:: kahvit @ Cafetoria Roastery
-???
 ~15:00:: (yläköysi) kiipimiset @ Salmis
 18:00:: Skumppaa/jallua @ kotini
 
