@@ -1,1 +1,14 @@
-{"meta":{"username":"sakkemo","repositoryName":"blog","branch":"gh-pages"},"site":{"disqus":"sakkemo","url":"https://sakkemo.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//sakkemo.github.io/blog/themes/Casper"}}
+{
+  "meta": {
+    "username": "sakkemo",
+    "repositoryName": "blog",
+    "branch": "gh-pages"
+  },
+  "site": {
+    "disqus": "sakkemo"
+  },
+  "socialnetwork": {},
+  "theme": {
+    "name": "uno-zen"
+  }
+}
